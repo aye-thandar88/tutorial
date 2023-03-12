@@ -1,0 +1,14 @@
+.app__wrapper_info-content {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.app__wrapper_info-content_p {
+    text-align: justify;
+    padding: 0.5rem;
+}
+
+.rotate__img {
+    transform: rotate(180deg);
+}
